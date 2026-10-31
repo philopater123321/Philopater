@@ -19,13 +19,14 @@ a {
     display: grid;
     grid-template-columns: auto 1fr;
     grid-template-rows: auto;
-    background-color: rgb(125, 125, 137);
+    background-color: rgb(36, 101, 131);
     align-items: center;
     background: rgb(36, 101, 131);
     backdrop-filter: blur(15px);
     -webkit-backdrop-filter: blur(15px);
     border: 1px solid rgba(21, 221, 225, 0.5);
     margin: 40px 60px;
+    box-shadow: 0 0 20px rgba(129, 166, 190, 0.5);
     border-radius: 50px;
 }
 .buttons {
